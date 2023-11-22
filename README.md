@@ -1,3 +1,4 @@
-# MemoryGame_DisneyPrincesses
+# MemoryGame: DisneyPrincesses
 
-Simple JavaScript memory matching game. Feel free to pull and replace the gifs with those of your own choosing
+Simple JavaScript memory matching game. 
+Feel free to pull and replace the gifs with those of your own choosing
